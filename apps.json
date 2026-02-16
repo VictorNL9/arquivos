@@ -55,5 +55,8 @@
     { "name": "FX_Red_Extract", "url": "https://github.com/VictorNL9/arquivos/releases/download/textureV1.0/Red.Extract.zip" },
     { "name": "Misc_WhoYouAre", "url": "https://github.com/VictorNL9/arquivos/releases/download/textureV1.0/d.rWho.you.d.zip" },
     { "name": "Misc_Trixie_Peck", "url": "https://github.com/VictorNL9/arquivos/releases/download/textureV1.0/Triixie.peck.7z" }
+  ],
+  "Programas": [
+    { "name": "Discord", "url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"}
   ]
 }
