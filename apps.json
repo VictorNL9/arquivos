@@ -60,7 +60,8 @@
     { "name": "Discord", "url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"},
     { "name": "Teste", "url": "https://github.com/CCBlueX/LiquidLauncher/releases/download/v0.5.0/LiquidLauncher_0.5.0_x64_en-US.msi"}
   ],
-  "Teste": [
+  "Programas": [
+    { "name": "Discord", "url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"},
     { "name": "Teste", "url": "https://github.com/CCBlueX/LiquidLauncher/releases/download/v0.5.0/LiquidLauncher_0.5.0_x64_en-US.msi"}
   ]
 }
